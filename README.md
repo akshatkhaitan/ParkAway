@@ -6,68 +6,34 @@ Frontend : React JS <br />
 BackEnd : SpringBoot <br />
 DataBase : Mongo DB Atlas
 
-**Class Diagrams:**
+## Project Module ScreenShots
 
-**![](https://github.com/akshatkhaitan/ParkAway/edit/main/images/im1.png)**
+### Class Diagrams
 
-**![](media/7b05bb9d0441f89adb4db52c349ec3c4.jpeg)**
+![im1](https://user-images.githubusercontent.com/68317448/174888821-21eb12ae-7636-4fc7-a00b-0c2ac856fae3.png)<br /> <br /><br />
+![im2](https://user-images.githubusercontent.com/68317448/174889115-ddf9c952-f6d7-4f39-aaf1-b3b832cc0d19.png)<br /><br /><br />
+![im3](https://user-images.githubusercontent.com/68317448/174889147-9547dca9-d687-4829-b542-916d40c836cb.png)<br /><br /><br />
+![im4](https://user-images.githubusercontent.com/68317448/174889160-33cb9345-7690-420a-8f6b-a0bf78c48e94.png)<br /><br /><br />
+![im5](https://user-images.githubusercontent.com/68317448/174889176-84454ca9-acdd-4fe6-9add-7e977f97473c.png)<br /><br /><br />
+![im8](https://user-images.githubusercontent.com/68317448/174889197-7ec38cda-27fc-466f-a8e3-6ae85d6d1a26.png)<br /><br /><br />
+![im6](https://user-images.githubusercontent.com/68317448/174889202-d49f46cb-db89-4b6d-b9cb-a67f48a06039.png)<br /><br /><br />
+![im7](https://user-images.githubusercontent.com/68317448/174889208-461b15cb-7016-4654-b022-b98f54fe2b02.png)<br /><br /><br />
 
-**![](media/4aa5a478692da6829d1bd93fbd1dec09.jpeg)**
 
-**![](media/4745e3d58dde47e3c5939c0f8b96d335.jpeg)**
+### Homepage
 
-**![](media/ae744735d6fc1d3731610daf05e60677.jpg)**
+![homepage](https://user-images.githubusercontent.com/68317448/174889632-1052b9f5-cd1d-4b7d-9527-38c9cefc11fa.png)<br /><br /><br />
 
-**![](media/c7f9241864af04daaf0fa984588e32af.jpg)**
+### Admin Login
+![admin](https://user-images.githubusercontent.com/68317448/174890379-2ac55f04-2dc5-4b81-8c79-e33925c04d8f.png)<br /><br /><br />
 
-**![](media/827ed327b5e0fdbac33fa6b533258a08.jpg)**
+### Admin DashBoard
+![admin2](https://user-images.githubusercontent.com/68317448/174890402-445a484b-a7e1-45f3-a4f2-601feecfce43.png)<br /><br /><br /><br />
 
-**![](media/3145de73426a346f2d50327da92cb4cc.jpg)**
+### User DashBoard
+![user](https://user-images.githubusercontent.com/68317448/174890423-daada720-886a-4bb0-b7b6-1943e08c4add.png)<br /><br /><br />
+![user2](https://user-images.githubusercontent.com/68317448/174890431-49f97d9f-4288-4793-8ee7-dbb15a10da7f.png)<br /><br /><br />
+![user3](https://user-images.githubusercontent.com/68317448/174890440-06af77dd-3db9-403d-ad1c-05719107f795.png)<br /><br /><br />
 
-**Project Module Screenshots:**
-
-**Homepage:**
-
-**![](media/c8420b1314ced22d21bde37619379cc2.png)**
-
-**Admin Login:**
-
-![](media/c20810330643d581bcf70385d10342a5.png)
-
-**User Login:**
-
-![](media/cdc2afd0827d577fd14bc7c7ad830e9c.png)
-
-**User Registration:**
-
-![](media/f2c136e89261ae5f8d7a4f0e953a96df.png)
-
-![](media/502c05c9c3ac2482f252d8d766a5e20c.png)
-
-**Staff Login:**
-
-**![](media/8c961d0f804b98d8c22f1c0ac4b05a32.png)**
-
-**Admin Dashboard:**
-
-![](media/c500cc623f4dfdfe66e5760df97b3973.png)
-
-**![](media/fc010c23c821e973274e1724b6db5466.jpeg)**
-
-**User Dashboard:**
-
-**![](media/d658af00364f9671cded0fd7b2bd3759.jpeg)**
-
-![](media/b2f1d0355d321fdb1879abce4be2f691.jpeg)
-
-![](media/034e5d8980b26b954b72dfbd0d22c8db.jpeg)
-
-![](media/a64ba7d8b3582a30de60f400ae1ad5a7.jpeg)
-
-![](media/88b7301dfd6d65125a2a637c106c4a7a.png)
-
-**Staff Dashboard:**
-
-![](media/bc888505cc23ab90082502a52eaf24e3.jpeg)
-
-![](media/e938429ab6c516917b415e0e21473e1a.jpeg)
+### Staff DashBoard
+![staff](https://user-images.githubusercontent.com/68317448/174890536-44fef9a0-fe5b-4d5b-aeaf-7c8de64453a0.png)<br /><br /><br /><br />
